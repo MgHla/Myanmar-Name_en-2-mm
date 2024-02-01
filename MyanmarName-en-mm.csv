@@ -83,6 +83,7 @@ AG,အောင်,
 AGA,အဂ္ဂ,
 AGD,အေဂျီဒီ,
 AGGA,အဂ္ဂ,
+AGGADHAMMA,အဂ္ဂဓမ္မ,
 AGGAR,အဂ္ဂါ,
 AGOSTINO,အဂို့စ်တီနို,
 AH,အ,
@@ -191,6 +192,7 @@ AINDAKA,ဣန္ဒက,
 AINDRA,အိန္ဒြာ,
 AINDRAY,အိန္ဒြေ,
 AINE,အိုင်း,mmaws
+AINJIN,အင်ကြင်း,
 AINT,အိမ့်,
 AIR,အဲ,
 AITE,အိုက််,
@@ -201,6 +203,7 @@ AKARE,ဧကရီ,
 AKARI,ဧကရီ,
 AKARIT,ဧကရစ်,
 AKARY,ဧကရီ,
+AKAYI,ဧကရီ,
 AKER,အာကာ,
 AL,အယ်လ်,
 ALDRIN,အယ်လ်ရင်း,
@@ -227,6 +230,7 @@ ANDREW,အင်ဒရူ,
 ANESY,အန်အီစီ,
 ANG,အောင်,mmaws
 ANGEL,အိန်ဂျယ်,
+ANIL,အန်းနေးလ်,
 ANK,အန့်,
 ANM,အမ်,
 ANN,အမ်း,အမ်း / အန်း
@@ -277,6 +281,7 @@ AUREUM,အော်ယီရမ်,
 AURORA,အော်ရိုရာ,
 AUU,အူ,
 AW,ဩ,
+AWAM,အွမ်း,
 AWAN,အွမ်,mmaws
 AWE,အွယ်,
 AWN,အွန်,mmaws
@@ -295,6 +300,7 @@ AZU,အဉ္ဇူ,mmaws
 B,ဘီ,
 BA,ဘ,
 BABY,ဘေဘီ,
+BADANTA,ဘဒ္ဒန္တ,
 BAE,ဘဲ,
 BAGAN,ပုဂံ,
 BAHADOO,ဗဟာဒူး,
@@ -335,11 +341,12 @@ BAUK,ဘေါက်,Byee-Thara
 BAUNK,ဘောက်,
 BAW,ဘော,
 BAWI,ဘဝီ,
-BAWK,ဘောက်,
+BAWK,ဘောက်,Nan OnePay
 BAWM,ဘောမ်,
 BAY,ဗေး,
 BAYAN,ဗရမ်း,
 BAYANG,ဘရမ်,
+BAYAR,ဗေရာ,
 BAYDAR,ဘေတာ,
 BAYE,ဘေး,mmaws
 BE,ဘီး,
@@ -349,6 +356,7 @@ BEI,ပယ်,
 BEIK,ဘိတ်,Byee-Thara
 BEIN,ဘိန်း,Byee-Thara
 BEINT,ဘိမ့်,Byee-Thara
+BEJAY,ဘီဂျေး,
 BEL,ဘယ်လ်,
 BELL,ဘဲလ်,
 BENNY,ဘန်နီ,
@@ -366,6 +374,7 @@ BHON,ဘုန်း,
 BHONE,ဘုန်း,
 BHUVANESH,ဘူဘာနက်ချ်,
 BHWAR,ဘွား,
+BHWE,ဘွေး,
 BI,ဘီ,
 BIAK,ဘိတ်,
 BIE,ဘီ,
@@ -403,6 +412,7 @@ BOY,ဘွိုင်,
 BRAM,ဘရမ်,
 BRAN,ဘရမ်,
 BRANG,ဘရန်,
+BRIGIC,ဘရီဂျစ်,
 BROOKS,ဘရွတ်စ်,
 BROWN,ဘရောင်း,
 BRUCE,ဘရုစ်,
@@ -420,6 +430,7 @@ BWAL,ဘွယ်,mmaws
 BWAN,ဘွမ်,
 BWAR,ဘွား,
 BWAY,ဘွဲ,
+BWAYCHINTIGUL,ဘွေးချင်တီဂူလ်,
 BWE,ဘွဲ,
 BWEL,ဘွယ်,mmaws
 BWET,ဘွဲ့,
@@ -549,7 +560,7 @@ CHWAM,ချွမ်,
 CHWAN,ချွမ်,Byee-Thara
 CHWAY,ခြွေ,mmaws
 CHWE,ခွေ,Byee-Thara
-CHWIN,ချွင်း,
+CHWIN,ချွမ်,Nan OnePay
 CHWUT,ချွတ်,
 CHY,ချိုင်,Byee-Thara
 CHYA,ချ,Byee-Thara
@@ -563,9 +574,11 @@ CHYO,ချိုး,Byee-Thara
 CHYU,ချူ,Byee-Thara
 CHYUN,ချွန်း,
 CI,စီ,
+CIIN,စင်,
 CIN,ကျင်,
 CINDY,စင်ဒီ,
 CING,ကျိန်,
+CISSY,စီဆီ,
 CO,ကို,mmaws
 COHEN,ကိုးဟန်,
 COLN,ကို,
@@ -662,6 +675,7 @@ DEL,ဒယ်လ်,mmaws
 DELHI,ဒါလီ,
 DENIAL,ဒန်နီရယ်,
 DEOGHARKAR,ဒီဟတ်ကာ,
+DEPAD,ဒီပက်ဒ်,
 DEPAR,ဒီပါ,
 DET,ဒက်,Byee-Thara
 DEVENDRA,ဒီဗန္ဒြာ,
@@ -729,6 +743,7 @@ DIANA,ဒိုင်ယာနာ,
 DIAZ,ဒီးယက်ဇ်,
 DII,ဒီး,
 DIKE,ဒိုက်,
+DIL,ဒေးလ်,
 DILARAM,ဒီလာရမ်,
 DIM,ဒင်,
 DIN,ဒင်,
@@ -759,6 +774,7 @@ DOON,ဒွန်း,
 DOORNEKAMP,ဒိုးနီကမ့်,
 DORAN,ဒိုရန်,
 DORATHY,ဒိုရသီ,
+DORIS,ဒိုရီစ်,
 DOU,ဒိုး,
 DOUK,တောက်,mmaws
 DOUN,ဒွန်း,
@@ -775,8 +791,9 @@ DUN,ဒွန်း,
 DUNN,ဒွန်း,
 DUNNE,ဒွန်နီ,
 DUP,ဒက်,
+DUR,ဂျူ,
 DURI,ဒူရီ,
-DUT,ဒွတ်,
+DUT,သွတ်,Nan OnePay
 DUU,ဒူး,
 DUWA,ဒူးဝါး,
 DUWON,ဓူဝံ,
@@ -808,6 +825,7 @@ EAINDAKA,ဣန္ဒက,
 EAINDAR,အိန္တာ,mmaws
 EAINDRA,အိန္ဒြာ,
 EAINDRAY,ဣန္ဒြေ,
+EAINDRI,ဣန္ဒြေ,
 EAINDU,အိန္ဓု,mmaws
 EAINDYA,အိန္ဒြ,mmaws
 EAINE,အိုင်,Byee-Thara
@@ -835,7 +853,9 @@ EEIK,အိတ်,Byee-Thara
 EEIN,အိန်း,Byee-Thara
 EEINT,အိမ့်,Byee-Thara
 EET,အက်,Byee-Thara
+EGUMAR,အီဂူးမား,
 EH,အယ်,
+EHDEENAR,အဒ္ဒီနာ,
 EHDO,အဲဒို,
 EHLAR,အဲလာ,
 EI,အိ,
@@ -861,6 +881,7 @@ ELAING,အှိုင်,Byee-Thara
 ELDIN,အဲလ်ဒင်,
 ELI,အဲလီ,
 ELIZABETH,အယ်လိဇဘက်,
+ELSIE,အယ်လ်စီ,
 ELTAR,အယ်လ်တာ,
 EMERALD,အမ်မရာ,
 EN,အင်,
@@ -901,13 +922,13 @@ EYE,အေး,Byee-Thara
 EYO,အိုး,Byee-Thara
 EYU,အီယူ,Byee-Thara
 F,ဖ,mmaws
-FA,ဖ,mmaws
+FA,ဖ,Nan OnePay
 FAMOUS,ဖေးမက်စ်,
 FANG,ဖန်,
 FAR,ဖာ,
 FEIN,ဖိန်း,
 FEL,ဖီး,
-FHA,ဖ,
+FHA,ဖ,Nan OnePay
 FIVE,ဖိုက်,
 FLORA,ဖလော်ရာ,
 FLORENCE,ဖလော်ရန့်စ်,
@@ -948,7 +969,7 @@ GANT,ကံ့,
 GAR,ဂါ,
 GARA,ဂရ,
 GARCIA,ဂါစီရာ,
-GARET,ဂရပ်,
+GARET,ဂရက်,Nan OnePay
 GARR,ဂါး,mmaws
 GAT,ဂတ်,mmaws
 GATE,ဂိတ်,
@@ -999,7 +1020,7 @@ GORDON,ဂေါ်ဒွန်,
 GORETTI,ဂိုးရက်တီး,
 GOU,ဂို,
 GRACE,ဂရေ့စ်,
-GRACY,ဂရေစီ,
+GRACY,ဂရေစီ,Nan OnePay
 GRAHAM,ဂရေဟမ်,
 GRAND,ဂရန်း,
 GRAVES,ဂရာဗက်စ်,
@@ -1007,7 +1028,7 @@ GRAWNG,ဂရောန်,
 GRAY,ဂရေး,
 GREEN,ဂရင်း,
 GRIFFITH,ဂရီဖစ်ထ်,
-GRIN,ဂရင်,
+GRIN,ဂရင်,Nan OnePay
 GU,ဂူး,
 GUE,ဂူး,mmaws
 GUM,ဂွန်,
@@ -1078,7 +1099,7 @@ HATE,ဟိတ်,
 HATT,ဟတ်,
 HAU,ဟွ,
 HAUK,ဟောက်,
-HAUNG,ဟောင်,
+HAUNG,ဟောင်,Nan OnePay
 HAUT,ဟောက်,mmaws
 HAW,ဟော,Byee-Thara
 HAWAY,ဟွေ,mmaws
@@ -1119,6 +1140,7 @@ HILDALONE,ဟေးဒါလုံး,
 HILL,ဟေးလ်,
 HIMAR,ဟေမာ,
 HIN,ဟင်လ်,
+HINARY,ဟင်နရီ,
 HINE,ဟိုင်,Byee-Thara
 HING,ဟင်,
 HINN,ဟင်း,
@@ -1129,14 +1151,16 @@ HKA,ခါး,
 HKAM,ခမ်း,
 HKAUNG,ခေါင်,
 HKAW,ခေါ်,
-HKAWN,ခေါင်,
+HKAWL,ခေါ်လ်,
+HKAWM,ကွမ်,
+HKAWN,ကွမ်,Nan OnePay
 HKAWNG,ခေါင်,
 HKON,ခွန်,
 HKUM,ဟွမ်,
 HKUN,ခွန်,
 HLA,လှ,
 HLAE,လှဲ,mmaws
-HLAINE,လှိုင်း,
+HLAINE,လျှမ်း,Nan OnePay
 HLAING,လှိုင်,
 HLAINNG,လှိုင်,
 HLAM,လျန်,
@@ -1149,6 +1173,7 @@ HLAYAN,လျှန်,
 HLAYAP,လျှပ်,mmaws
 HLAYAT,လျှပ်,mmaws
 HLAYE,လှေး,mmaws
+HLAYING,လှိုင်,
 HLE,ဟဲလ်,
 HLEE,လှီး,mmaws
 HLIAN,လျှံ,mmaws
@@ -1190,6 +1215,7 @@ HMYAUNG,မြှောင်,mmaws
 HMYAW,မျှော်,
 HMYE,မှိုင်း,
 HNA,နှာ,mmaws
+HNAING,လှိုင်,
 HNAM,နှဲမ်,
 HNAME,နှဲမ်း,mmaws
 HNAUNG,နှောင်း,
@@ -1285,6 +1311,7 @@ HSOUNG,ဆောင်း,
 HSU,ဆု,
 HSUE,ဆူး,
 HSUN,ဆွန်,Byee-Thara
+HSUNANDA,ဆုနန္ဒ,
 HSUNN,ဆွန်း,Byee-Thara
 HSUU,ဆူး,Byee-Thara
 HSWA,ဆွ,Byee-Thara
@@ -1361,6 +1388,7 @@ HTOON,ထွန်း,
 HTU,ထု,
 HTUE,ထူး,
 HTUN,ထွန်း,
+HTUNG,ထောင်,
 HTUNN,ထွန်း,
 HTUT,ထွဋ်,
 HTUU,ထူး,Byee-Thara
@@ -1393,7 +1421,7 @@ HUU,ဟူး,
 HWA,ဟွ,
 HWAM,ဟွမ်,
 HWAN,ဟွမ်,Byee-Thara
-HWAR,ဟွာ,
+HWAR,ဝှား,Nan OnePay
 HWE,ဟွေ,Byee-Thara
 HWET,ဝှက်,
 HWUN,ဟွမ်း,mmaws
@@ -1413,9 +1441,10 @@ IANG,အိုင်း,
 IDA,*--,*
 II,တူး,
 IIT,အစ်,mmaws
-IKE,အိုက်,
+IKE,အိုက်,Nan OnePay
 IN,အင်,
 INDA,အင်ဒါ,
+INDACAKKA,အန္ဒကက္က,
 INDE,အင်ဒီ,
 ING,အိန်,
 INGYIN,အင်ကြင်း,
@@ -1443,10 +1472,12 @@ JACK,ဂျက်,
 JACKSON,ဂျက်ဆင်,
 JACQUELINE,ဂျက်ကလင်း,
 JADE,ဂျိတ်,
+JAGARALINKARA,ဂျဂါရာလင်ကရာ,
 JAL,ဂျယ်,mmaws
 JALAR,ဂျလား,
 JAM,ဂျမ်,
 JAMES,ဂျိမ်း,
+JAMU,ဂျမူး,
 JAN,ဂျန်,mmaws
 JANG,ဂျန်း,
 JAR,ဂျာ,
@@ -1464,6 +1495,7 @@ JAYESHKUMAR,ဂျေးယက်ချ်ကူးမား,
 JE,ဂျူ,mmaws
 JEAN,ဂျင်း,
 JEFFERY,ဂျက်ဖရီ,
+JEIN,ဂျိန်း,
 JENNY,ဂျင်းနီ,
 JERRY,ဂျယ်ရီ,
 JESH,ဂျက်ချ်,
@@ -1546,6 +1578,7 @@ KALARMA,ကုလားမ,
 KALAY,ကလေး,
 KALAYA,ကလျာ,
 KALAYAR,ကလျာ,
+KALO,ကလို,
 KALU,ကလု,
 KALYAR,ကလျာ,
 KAM,ကမ်,
@@ -1602,6 +1635,7 @@ KELLER,ကဲလ်လာ,
 KEN,ကန်,mmaws
 KENNETH,ကတ်နက်,
 KER,ကာ,mmaws
+KESH,ကတ်ချ်,
 KET,ကက်,Byee-Thara
 KEY,ကီ,mmaws
 KHA,ခ,
@@ -1649,7 +1683,7 @@ KHEL,ခဲ,
 KHET,ခက်,
 KHI,ခိ,Byee-Thara
 KHIANG,ခိုင်,
-KHIM,ခင်,
+KHIM,ခင်,Nan OnePay
 KHIN,ခင်,
 KHINE,ခိုင်,
 KHING,ခိုင်,
@@ -1671,7 +1705,7 @@ KHOO,ခူး,Byee-Thara
 KHOON,ခွန်း,
 KHOTE,ခုပ်,
 KHOUT,ခေါက်,
-KHOW,ခေါ်,
+KHOW,ကော်,Nan OnePay
 KHTET,ခက်,
 KHU,ခူး,
 KHUE,ခူး,mmaws
@@ -1719,6 +1753,7 @@ KITE,ကိုက်,
 KLAING,ကှိုင်,Byee-Thara
 KLAYAR,ကလျာ,
 KLO,ကလို,
+KMAR,ကမာ,
 KO,ကို,
 KO.,ကို,
 KOE,ကိုး,
@@ -1728,6 +1763,7 @@ KOK,ကောက်,
 KOKE,ခုပ်,
 KOL,ကိုလ်,
 KOLO,ကိုလို,
+KOME,ကိုမီ,
 KON,ကွန်,Byee-Thara
 KONE,ကုန်,
 KONG,ခေါင်,
@@ -1742,12 +1778,14 @@ KOVIDA,ကောဝိဒ,
 KOW,ကောင်း,
 KRI,ကီ,
 KRICKSTEIN,ခရစ်စတိုင်း,
+KRISANAT,ကစ္စနား,
 KRUNAL,ခရုနေး,
 KU,ကု,
 KUDAY,ကုဋေ,
 KUE,ကူး,
 KUEE,ကူး,
 KUK,ကောက်,
+KUL,ကူးလ်,
 KUMA,ကုမ္မာ,mmaws
 KUMAR,ကူးမား,
 KUMARA,ကုမာရ,
@@ -1762,7 +1800,7 @@ KUU,ကူး,
 KWA,ကွ,Byee-Thara
 KWAK,ကွက်,mmaws
 KWAL,ကွယ်,
-KWAM,ကွမ်,mmaws
+KWAM,ကွမ်း,Nan OnePay
 KWAN,ကွမ်,
 KWAP,ကွပ်,
 KWAR,ကွာ,mmaws
@@ -1850,6 +1888,7 @@ LAA,လ,
 LABB,လတ်,
 LABT,လာဘ်,
 LABYA,လဗျ,
+LACHU,လာချူး,
 LAD,လဒ်,
 LAE,လဲ့,
 LAE`,လဲ့,
@@ -1892,6 +1931,7 @@ LARB,လာဘ်,
 LARD,လာဒ်,
 LARL,လာလ်,mmaws
 LARM,လာမ်,mmaws
+LARR,လား,
 LAT,လတ်,
 LATE,လိတ်,
 LATT,လတ်,
@@ -1911,6 +1951,7 @@ LAYAWT,လျော့,mmaws
 LAYIN,လျင်,
 LAYINT,လျင့်,mmaws
 LAYY,လေး,
+LAZUM,လဇွမ်,
 LAZUN,လဇွန်,
 LE,လဲ့,
 LE`,လဲ့,
@@ -1919,7 +1960,7 @@ LEEUWEN,လီဝန်,
 LEI,လဲ့,
 LEIK,လိတ်,Byee-Thara
 LEIN,လိန်,
-LEING,လွိမ်,
+LEING,လျိမ်း,Nan OnePay
 LEINN,လိန်း,
 LEINT,လိမ့်,Byee-Thara
 LEKKHA,လက္ခ,mmaws
@@ -1989,10 +2030,11 @@ LOR,လာ,mmaws
 LOS,လော့,
 LOT,လော့,
 LOTE,လုတ်,mmaws
+LOU,လော့,
 LOUK,လောက်,
 LOUN,လောင်,
 LOUNG,လောင်း,
-LOUT,လောက်,
+LOUT,လွတ်,Nan OnePay
 LOW,လိုး,
 LOWN,လောင်,
 LU,လူ,
@@ -2033,7 +2075,7 @@ LYAY,လေ,Byee-Thara
 LYE,လျေး,Byee-Thara
 LYIN,လျင်,
 LYINT,လျင့်,mmaws
-LYNE,လွိမ်,
+LYNE,လျှမ်း,Nan OnePay
 LYNN,လင်း,
 LYO,လျို,
 LYU,လျူ,Byee-Thara
@@ -2048,6 +2090,7 @@ MADU,မာဒု,
 MAE,မေ့,
 MAEN,မဲန်း,mmaws
 MAGAUNG,မခေါင်,
+MAGDALENA,မာဂလီနာ,
 MAGNOLIA,မက်နိုးလီယာ,
 MAHAR,မဟာ,
 MAHAYS,မာဟေးစ်,
@@ -2070,6 +2113,7 @@ MAL,မယ်,
 MALA,မာလာ,
 MALAR,မာလာ,
 MALARR,မာလာ,
+MALE,မာလီ,
 MAM,မမ်,Byee-Thara
 MAN,မန်,
 MANA,မန,
@@ -2082,7 +2126,7 @@ MANN,မာန်,
 MANOET-Y,MANOET-Y,*
 MANOJ,မနော့ဂျ်,
 MANT,မန့်,Byee-Thara
-MAO,မောဝ်,
+MAO,မောဝ်,Nan OnePay
 MAR,မာ,
 MARAN,မရန်,
 MARBLE,မာဘယ်လ်,
@@ -2091,6 +2135,7 @@ MARGARET,မာဂရပ်,
 MARGLER,MARGLER,*
 MARI,မာရီ,
 MARIA,မာရီယာ,
+MARIETORIA,မာရီတိုရီးယား,
 MARIP,မရစ်,
 MARIS,မာရစ်,
 MARIT,မရစ်,
@@ -2220,7 +2265,7 @@ MOKE,မုတ်,Byee-Thara
 MOKOENA,မိုကိုနာ,
 MOLLY,မော်လီ,
 MOM,မွန်,
-MOME,မွမ်,
+MOME,မိုမီ,Nan OnePay
 MON,မွန်,
 MONA,မိုနာ,
 MONE,မုံ,
@@ -2245,6 +2290,7 @@ MRAT,မရတ်,
 MRATT,မာရတ်,
 MU,မူ,
 MUAN,မုန်,
+MUANG,မုံ,
 MUE,မူ,
 MUKO,မူကို,
 MULAR,မူလ္လာ,
@@ -2252,7 +2298,7 @@ MULE,မူလီ,
 MUN,မွန်,Byee-Thara
 MUNG,မုန်,
 MUNN,မွန်း,Byee-Thara
-MURNG,မူရမ်,
+MURNG,မာန်,Nan OnePay
 MURRAY,မာရေး,
 MUTHU,မူတူး,
 MUTU,မူတူး,
@@ -2297,6 +2343,7 @@ MYINE,မြိုင်,
 MYING,မြိုင်,
 MYINT,မြင့်,
 MYINTMO,မြင့်မိုရ်,
+MYINTMYINT,မြင့်မြင့်,
 MYINTSU,မဉ္စူ,mmaws
 MYINTZU,မဉ္ဇူ,
 MYINZU,မြဉ္ဇူ,
@@ -2331,6 +2378,7 @@ NAN,နန်း,
 NANCY,နန်စီ,
 NANDA,နန္ဒ,
 NANDAR,နန္ဒာ,
+NANDAWBHARTHA,နန္ဒာ,
 NANDDY,နန္ဒီ,mmaws
 NANDE,နန္ဒီ,mmaws
 NANDI,နန္ဒီ,
@@ -2379,6 +2427,7 @@ NEVILLE,နဗီး,
 NEW,နွယ်,
 NEY,နီ,
 NGA,င,
+NGAE,ငယ်,
 NGAI,ငိုင်,
 NGAIH,ငိုက်,
 NGAIK,ငိုက်,
@@ -2407,6 +2456,7 @@ NGI,ငိ,Byee-Thara
 NGIKE,ငိုက်,
 NGIN,ငင်,Byee-Thara
 NGINE,ငိုင်,Byee-Thara
+NGING,ငိုင်,
 NGINN,ငင်း,Byee-Thara
 NGINT,ငင့်,Byee-Thara
 NGIT,ငစ်,Byee-Thara
@@ -2451,6 +2501,7 @@ NHIT,နှစ်,
 NHYIN,ညှင်း,mmaws
 NI,နီ,
 NIANG,ညောင်,
+NIDI,နဒီ,
 NIE,နီ,
 NII,နီ,
 NIL,နေးလ်,
@@ -2475,7 +2526,7 @@ NIZAR,နီဇာ,
 NKHUM,ငွန်,
 NLAING,နှိုင်,Byee-Thara
 NO,နို,
-NOAM,နွမ််,
+NOAM,နွမ်,Nan OnePay
 NOBAL,နိုဘယ်လ်,
 NOE,နို,
 NOH,နို့,Byee-Thara
@@ -2483,7 +2534,7 @@ NOHT,နို့,Byee-Thara
 NOI,နွယ်,
 NOKE,နုတ်,Byee-Thara
 NOL,နို,
-NOM,နွမ်,
+NOM,နုမ်,Nan OnePay
 NOME,နွမ်,
 NON,နွံ,
 NONE,နုန်,Byee-Thara
@@ -2492,12 +2543,13 @@ NONGE,နိုငယ်,
 NONN,နွံ,
 NONT,နွန့်,Byee-Thara
 NOO,နူး,Byee-Thara
-NOOM,နွမ်း,
+NOOM,နွမ်,Nan OnePay
 NOON,နွမ်,
 NOOR,နော,
 NOPPORN,နော့ပွန်,
 NORAH,နိုရာ,
 NORE,နို,
+NORMA,နောမ,
 NORRIS,နောရစ်,
 NOTE,နုတ်,
 NOUNG,နောင်,
@@ -2518,14 +2570,14 @@ NUNE,နွန်း,mmaws
 NUNG,နန်း,
 NUNGOO,နန်းဦး,
 NUNN,နွန်း,Byee-Thara
-NURA,နုရာ,
+NURA,နုရာ,Nan OnePay
 NUU,နူး,
 NUYI,နုရီ,
 NWA,နွ,Byee-Thara
 NWAE,နွေ,
 NWAI,နွေ,နွေ / နွေး
 NWAL,နွယ်,
-NWAM,နွမ်,
+NWAM,နွမ်း,Nan OnePay
 NWAN,နွမ်,
 NWAY,နွေ,နွေ / နွေး
 NWAYE,နွေး,
@@ -2582,6 +2634,7 @@ NYINT,ညင့်,Byee-Thara
 NYIT,ညစ်,Byee-Thara
 NYLAING,ညှိုင်,Byee-Thara
 NYNE,ငြိမ်း,
+NYNT,ညွန့်,
 NYO,ညို,
 NYOE,ညိုး,Byee-Thara
 NYOH,ညို့,Byee-Thara
@@ -2597,6 +2650,7 @@ NYU,ညု,
 NYUN,ညွန်,Byee-Thara
 NYUNN,ညွန်း,Byee-Thara
 NYUNT,ညွန့်,
+NYUT,ညွန့်,
 NYUU,ညူး,Byee-Thara
 NYWA,ညွ,Byee-Thara
 NYWAN,ညွမ်,Byee-Thara
@@ -2631,7 +2685,7 @@ OHANMAR,ဥမ္မာ,
 OHKAR,ဥက္ကာ,
 OHM,အုန်း,
 OHMAR,ဥမ္မာ,
-OHME,အုန်း,
+OHME,အွမ်း,Nan OnePay
 OHMM,အုန်း,
 OHMMAR,ဥမ္မာ,
 OHN,အုန်း,
@@ -2651,22 +2705,24 @@ OKKA,ဥက္ကာ,
 OKKAR,ဥက္ကာ,
 OLIVA,အိုလီဗာ,
 OLSON,အိုးဆန်,
-OM,အိုမ်,mmaws
+OM,အွမ်,Nan OnePay
 OMM,အုံး,
 OMMAR,ဥမ္မာ,
 ON,အွန်,
 ONE,ဝမ်း,
 ONG,အွမ်,
-ONN,အွန်,
+ONN,အုန်း,Nan OnePay
 OO,ဦး,
 OOE,ဦး,
 OR,အော်,
+OSADA,ဥူးစာရ,
 OSCAR,အော်စကာ,
 OSMAN,အိုစမာန်,
 OU,ဥ,
 OUE,ဥ,
 OUM,အွမ်,mmaws
 OUTA,ဥတ္တ,mmaws
+OWMAR,ဥမ္မာ,
 OWN,အုန်း,
 P,ပီ,
 P.MOHAN,ပီမိုဟန်,
@@ -2794,7 +2850,7 @@ PHONG,ဖောင်,
 PHONT,ဖွန့်,Byee-Thara
 PHOO,ဖူး,
 PHOOL,ဖူး,
-PHORN,ဖောင်း,
+PHORN,ဖွမ်း,Nan OnePay
 PHOT,ဖို့,mmaws
 PHOUNG,ဖောင်း,
 PHOW,ဖော်,
@@ -2893,6 +2949,7 @@ PUN,ပွန်,Byee-Thara
 PUNN,ပွန်း,Byee-Thara
 PUU,ပူး,
 PWA,ပွ,
+PWAE,ဖွေး,Nan OnePay
 PWAN,ပွမ်,Byee-Thara
 PWAR,ပွား,
 PWE,ပွယ်,
@@ -2952,6 +3009,7 @@ RAJ,ရာ့ဂျ်,
 RAJAR,ရာဂျာ,
 RAJEEV,ရာဂျစ်ဗ်,
 RAJEN,ရာဂျန်,
+RAJESH,ရာဂျပ်ချ်,
 RAJU,ရာဂျူး,
 RAKHAR,ရာခါ,
 RAKHINE,ရခိုင်,
@@ -2970,6 +3028,8 @@ RANN,ရန်း,Byee-Thara
 RANT,ရန့်,Byee-Thara
 RAP,ရပ်,mmaws
 RAR,ရာ,
+RARN,ရားန်,
+RASE,ရာ့စ်,
 RASTOGI,ရက်စတိုဂီ,
 RAT,ရတ်,
 RATHAN,ရာသန်,
@@ -2978,6 +3038,7 @@ RAVE,ရေ့ဒ်ဗ်,mmaws
 RAVI,ရာဗီ,
 RAW,ရော,
 RAY,ရေး,
+RAYM,ရမ်,
 RAYMON,ရေမွန်,
 RAYMOND,ရေမွန်,
 RAZAT,ရာဇတ်,
@@ -2985,6 +3046,7 @@ RE,ရီ,
 REBECCA,ရေဗက္ကာ,
 REBEKAH,ရေဗက္ကာ,
 REE,ရီး,
+REENA,ရီနာ,
 REH,ရချ်,
 REHMAN,ရမာန်,
 REIK,ရိတ်,Byee-Thara
@@ -3086,7 +3148,7 @@ SADID,ဆာ့ဒစ်,
 SAE,ဆဲလ်,
 SAFIT,စဖစ်,
 SAGA,ဆဂ,
-SAGAWAR,စကားဝါ,
+SAGAWAR,စကားဝါ,Nan OnePay
 SAH,ဆက်,
 SAI,စိုင်း,စိုင်း / ဆိုင်း
 SAIK,ဆိုက်,
@@ -3126,10 +3188,12 @@ SANDAWBARTHA,စံတော်ဘာသ,
 SANDER,စန္ဒာ,
 SANDI,စန္ဒီ,
 SANDIMARTHIRI,စန္ဒိမာသိရီ,
+SANDOBHACA,သန္ဒောဘာက,
 SANDRA,စန္ဒြာ,
 SANDY,စန္ဒီ,
 SANE,စိမ်း,
 SANG,စန်း,
+SANGETHA,သဃန္တ,
 SANJAY,စံဂျေး,
 SANJE,စံဂျေး,
 SANJEEV,စန်ဂျေး,
@@ -3164,12 +3228,15 @@ SAUNG,ဆောင်း,
 SAW,စော,
 SAWM,ဆောမ်း,
 SAWN,ဆွမ်,
+SAWNG,ဆွမ်,
+SAWR,ဆွာ,
 SAY,စေး,
 SAYA,ဆရာ,
 SAYADAW,ဆရာတော်,
 SAYAMA,ဆရာမ,
 SAYAR,ဆရာ,
 SAYARS,ဆာယာ,
+SCA,စက်,
 SCHILLER,ရှယ်လာ,
 SCOTT,စကော့,
 SE,စည်,
@@ -3193,7 +3260,7 @@ SEL,ဆဲလ်,
 SELL,ဆဲလ်,mmaws
 SELVAKUMAR,ဆယ်ဗာကူးမား,
 SENDA,စန္ဒာ,
-SENG,ဆမ်,
+SENG,စိုင်,Nan OnePay
 SENT,ဆမ့်,
 SEPH,စက်ဖ်,mmaws
 SEPTEMBER,စက်တင်ဘာ,
@@ -3216,7 +3283,7 @@ SHAM,ရှမ်း,
 SHAN,ရှမ်း,
 SHANDY,စန္ဒီ,
 SHANE,ရှိန်း,
-SHANGANG,ရှန်ဂန်,
+SHANGANG,ရှမ်ဂမ်,Nan OnePay
 SHANKAR,ရှန်ကာ,
 SHANN,ရှန်း,
 SHANTE,ဆန္ဒီ,
@@ -3225,7 +3292,7 @@ SHAR,ရှား,
 SHARM,ရှာမ်,mmaws
 SHARMA,ရှမား,
 SHARYE,သျှားရီ,
-SHAUK,ရှောက်,
+SHAUK,ရှောင်မ်,Nan OnePay
 SHAUNG,ရှောင်,mmaws
 SHAUT,ရှောက်,
 SHAW,ရှော,
@@ -3308,7 +3375,7 @@ SIS,စစ်,
 SIT,စစ်,
 SITA,စီတာ,
 SITE,စိုက်,
-SITHAR,စည်သာ,
+SITHAR,စည်သာ,Nan OnePay
 SITHTILA,SITHTILA,*
 SITHU,စည်သူ,
 SITT,စစ်,
@@ -3367,7 +3434,7 @@ SUN,စန်း,
 SUNDER,ဆန်းဒါး,
 SUNDI,စန္ဒီ,
 SUNDY,စန္ဒီ,
-SUNEEL,ဆန်နီးလ်,
+SUNEEL,ဆုနီး,Nan OnePay
 SUNG,ဆုမ်း,
 SUNI,ဆူနီ,
 SUNIL,ဆူနေး,
@@ -3404,7 +3471,7 @@ SWAY,ဆွေ,
 SWAYE,ဆွေး,
 SWE,ဆွေ,
 SWE`,ဆွဲ,
-SWEAT,ဆွဝ်,
+SWEAT,ဆွဲ့,Nan OnePay
 SWEE,ဆွီး,
 SWEET,ဆွိ,
 SWEETY,ဆွိတီ,
@@ -3416,7 +3483,7 @@ SWON,စွန်း,
 SWOUT,စွပ်,mmaws
 SWUN,စွမ်း,
 SWUT,ဆွတ်,mmaws
-SXYAN,စယွမ်,
+SXYAN,ဆွမ်,Nan OnePay
 SY,စိုင်,Byee-Thara
 SYA,စျ,Byee-Thara
 SYAW,စော်,Byee-Thara
@@ -3482,6 +3549,7 @@ TEIK,တိတ်,Byee-Thara
 TEIN,တိန်း,Byee-Thara
 TEINT,တိမ့်,Byee-Thara
 TEJA,တေဇ,
+TEJANIYA,တေဇနိယ,
 TEJAS,တေးဂျက်စ်,
 TEKKA,တက္ခ,mmaws
 TER,တာ,
@@ -3537,6 +3605,7 @@ THANMAR,သမ္မာ,mmaws
 THANN,သန်း,
 THANT,သန့်,
 THANTAR,သံသာ,
+THANTHAR,သံသာ,
 THANZIN,သံစဉ်,
 THAPYAE,သပြေ,
 THAPYAY,သပြေ,
@@ -3575,6 +3644,7 @@ THEA,သဲ,
 THEAL,သဲ,
 THED,သက်,
 THEE,သီး,
+THEI,သိန်း,
 THEIDDAT,သိဓ္ဓတ်,mmaws
 THEIH,ထိပ်,
 THEIK,သိုက်,
@@ -3615,7 +3685,7 @@ THINCHAR,သင်္ချာ,mmaws
 THINCHAY,သင်္ချေ,mmaws
 THINE,သိုင်,Byee-Thara
 THINGGUM,သင်္ကြန်,
-THINGI,သိင်္ဂီ,
+THINGI,သင်္ဂီ,Nan OnePay
 THINGYAN,သင်္ကြန်,
 THINGYIN,သင်္ကြန်,
 THINGYNN,သင်္ကြန်,
@@ -3629,6 +3699,7 @@ THINZALI,သင်ဇလီ,
 THINZAR,သင်ဇာ,
 THINZU,သဉ္ဇူ,mmaws
 THIP,သစ်,
+THIRAINDA,သိရိန္ဒ,
 THIRI,သီရိ,
 THISAR,သစ္စာ,
 THISSAR,သစ္စာ,
@@ -3647,7 +3718,9 @@ THOHT,သို့,Byee-Thara
 THOKE,သုတ်,Byee-Thara
 THOMAS,သောမက်စ်,
 THON,သွန်း,
+THONDARA,သုန္ဒရ,
 THONE,သုန်,
+THONEDARA,သုန္ဒရ,
 THONT,သွန့်,Byee-Thara
 THOO,သူး,
 THOON,သွန်း,
@@ -3691,6 +3764,7 @@ THWET,သွယ့်,
 THWIN,သွင်,
 THWINT,သွင့်,mmaws
 THWLE,သွယ်,
+THWN,သွင်,
 THY,သိုင်,Byee-Thara
 THYA,သျ,Byee-Thara
 THYAW,သော်,Byee-Thara
@@ -3717,6 +3791,7 @@ TIP,တစ်ပ်,
 TIT,တစ်,Byee-Thara
 TIYA,တိရ,
 TLAING,တှိုင်,Byee-Thara
+TN,တင်,
 TO,တို,Byee-Thara
 TOAT,တုတ်,
 TOE,တိုး,
@@ -3739,6 +3814,7 @@ TRAR,တာရာ,
 TREZA,ထရီဇာ,
 TRI,တြီ,mmaws
 TSAWM,တွမ်,
+TSH,သဲ,
 TSIN,စင်,
 TU,တူး,
 TUANG,တွမ်,
@@ -3791,6 +3867,7 @@ VIE,ဗီ,mmaws
 VILLA,ဗီလာ,
 VIN,ဗင်,
 VINOD,ဗီနော့်ဒ်,
+VISUTA,ဗိဆုတ,
 VIT,ဗစ်,
 VUI,ဗွီး,
 VUNG,ဗုန်,
@@ -3832,6 +3909,7 @@ WARR,ဝါး,
 WARTHAWA,ဝါသယ,
 WARZI,ဝါဇီ,
 WAT,ဝက်,Byee-Thara
+WATA,ဝံန္တ,
 WATE,ဝိတ်,
 WATHAN,ဝဿန်,
 WATHON,ဝသုန်,
@@ -3869,9 +3947,11 @@ WING,ဝင်း,
 WINN,ဝင်း,
 WINNA,ဝဏ္ဏ,
 WINNE,ဝင်နီ,
+WINNI,ဝင်နီ,
 WINNIE,ဝင်နီ,
 WINT,ဝင့်,
 WIRA,ဝိယ,
+WISEIKTA,ဝိစိတ္တ,
 WIT,ဝတ်,
 WITHONDA,ဝသုန္ဒ,
 WITHUTA,ဝိသုတ,
@@ -3881,13 +3961,14 @@ WITYE,ဝတ်ရည်,
 WITYEE,ဝတ်ရည်,
 WITYI,ဝတ်ရည်,
 WLAING,ဝှိုင်,Byee-Thara
+WN,ဝင်း,
 WO,ဝို,Byee-Thara
 WOE,ဝိုး,
 WOH,ဝို့,Byee-Thara
 WOHN,ဝုန်,
 WOHT,ဝို့,Byee-Thara
 WOKE,ဝုတ်,Byee-Thara
-WON,ဝံ,
+WON,ဝန်း,Nan OnePay
 WONE,ဝုန်,
 WONG,ဝမ်,
 WONNA,ဝဏ္ဏ,
@@ -3948,6 +4029,7 @@ YADANAR,ရတနာ,
 YADE,ရတီ,
 YADI,ရတီ,
 YAE,ရဲ,
+YAEKET,ရေကတ်,
 YAH,ယား,
 YAHMON,ရမှုံ,
 YAI,ရဲ့,
@@ -3988,6 +4070,7 @@ YAUNG,ရောင်,
 YAVANANGKUL,ရဗနန်ဂူးလ်,
 YAW,ယော်,
 YAWAI,ရဝေ,
+YAWNG,ယောင်း,
 YAWT,ရော့ဒ်,mmaws
 YAY,ရေ,
 YAZANA,ယဇန,
@@ -4016,6 +4099,7 @@ YINMAR,ယင်းမာ,
 YINN,ယဉ်,ရင် / ယဉ်
 YINT,ရင့်,
 YIT,ရစ်,
+YIYWAL,ရိရွဲ,
 YLAING,ယှိုင်,Byee-Thara
 YO,ယို,
 YOE,ရိုး,
@@ -4033,3 +4117,165 @@ YONT,ယွန့်,Byee-Thara
 YOO,ယူး,Byee-Thara
 YOON,ယွန်း,
 YOPE,ရုပ်,mmaws
+YOR,ယွာရ်,Nan OnePay
+YOTE,ရုပ်,mmaws
+YOU,ယု,
+YOUM,ရွမ်း,mmaws
+YOUN,ယွန်း,
+YOUNG,ရမ်း,
+YOY,ရိုင်,
+YU,ယု,
+YUE,ရွယ်,
+YUKA,ယူက,
+YUN,ယွန်း,
+YUNE,ယွန်း,
+YUNN,ယွန်း,
+YUPA,ရူပ,
+YUPAR,ရူပါ,
+YUT,ရွတ်,mmaws
+YUU,ရူး,
+YUUPAR,ရူပါ,
+YUZANA,ယုဇန,
+YUZUNA,ယုဇန,
+YWA,ရွ,Byee-Thara
+YWAE,ရွေ့,mmaws
+YWAL,ရွယ်,
+YWAN,ရွမ်,Byee-Thara
+YWAR,ရွာ,mmaws
+YWAT,ရွက်,
+YWE,ရွဲ,
+YWET,ရွက်,mmaws
+YWIN,ယွမ်,
+YY,ယိုင်,Byee-Thara
+YYA,ယျ,Byee-Thara
+YYAW,ရော်,Byee-Thara
+YYAWE,ရွယ်,Byee-Thara
+YYAWT,ရော့,Byee-Thara
+YYAY,ရေ,Byee-Thara
+YYE,ရေး,Byee-Thara
+YYO,ရိုး,Byee-Thara
+YYU,ရူ,Byee-Thara
+Z,ဇက်,
+ZA,ဇ,
+ZAAW,ဇော်,
+ZABAI,စပယ်,
+ZABALA,ဇာဘာလ,
+ZABU,ဇမ္ဗူ,
+ZAE,ဇေ,
+ZAI,ဇိုင်း,Byee-Thara
+ZAIK,ဇိုက်,Byee-Thara
+ZAIKE,ဇိုက်,Byee-Thara
+ZAIN,ဇိန်,Byee-Thara
+ZAINE,ဇိုင်,Byee-Thara
+ZAING,ဇိုင်,Byee-Thara
+ZAL,ဇဲလ်,
+ZALI,ဇလီ,
+ZALL,ဇော,
+ZAM,ဇမ်,
+ZAMT,ဇမ့်,
+ZAN,ဇန်,
+ZANA,ဇန,
+ZANE,ဇိန်း,mmaws
+ZANG,ဇန်း,
+ZANITA,ဇန္နိက,
+ZANN,ဇန်း,Byee-Thara
+ZANT,ဇန့်,Byee-Thara
+ZANW,ဇော်,mmaws
+ZAR,ဇာ,
+ZARCHI,ဇာခြည်,
+ZARGARA,ဇာဂရ,
+ZARLI,ဇာလီ,
+ZARNE,ဇာနည်,
+ZARNEE,ဇာနည်,
+ZARNI,ဇာနည်,
+ZAT,ဇက်,
+ZAUK,ဇောက်,Byee-Thara
+ZAUNG,ဇေါင်း,mmaws
+ZAW,ဇော်,
+ZAWANA,ဇဝန,
+ZAWAR,ဇဝါ,
+ZAWE,ဇွဲ,
+ZAWL,ဇော,
+ZAWLTIKA,ဇောတိက,
+ZAWW,ဇော်,
+ZAY,ဇေ,
+ZAYA,ဇေယျ,
+ZAYAR,ဇေယျာ,
+ZAYYA,ဇေယျ,
+ZAYYAR,ဇေယျာ,
+ZE,ဇီ,
+ZEE,ဇီး,
+ZEIK,ဇိတ်,Byee-Thara
+ZEIN,ဇိန်း,Byee-Thara
+ZEINT,ဇိမ့်,Byee-Thara
+ZEN,ဈာန်,
+ZET,ဇက်,
+ZEW,ဇော,
+ZEWL,ဇွဲ,
+ZEY,ဇေ,
+ZEYA,ဇေယျ,
+ZEYAR,ဇေယျာ,
+ZEYYA,ဇေယျ,
+ZEYYAR,ဇေယျာ,
+ZEZA,ဇီဇ,
+ZEZAWA,ဇီဇဝါ,
+ZEZAWAH,ဇီဇဝါ,
+ZEZAWAR,ဇီဇဝါ,
+ZHAN,ဇံ,
+ZHANG,ဇန်,
+ZHAW,ဇော်,
+ZHENG,ဇောင်,
+ZHI,ဇ္ဈိ,mmaws
+ZHU,ဇူ,
+ZI,ဇီ,
+ZIK,ဇစ်,
+ZIN,ဇင်,
+ZINC,ဇင်,
+ZINE,ဇိုင်,Byee-Thara
+ZING,ဇင်း,
+ZINN,ဇင်း,
+ZINT,ဇင့်,Byee-Thara
+ZINTHU,ဇင်သူ,
+ZINYAW,ဇင်ယော်,
+ZIT,ဇစ်,Byee-Thara
+ZIZAWAR,ဇီဇဝါ,
+ZLAING,ဇှိုင်,Byee-Thara
+ZLAP,ဇလက်,
+ZO,ဇို,
+ZOE,ဇိုး,Byee-Thara
+ZOH,ဇို့,Byee-Thara
+ZOHT,ဇို့,Byee-Thara
+ZOKE,ဇုတ်,Byee-Thara
+ZOM,ဇုံမ်,
+ZON,ဇွန်,
+ZONE,ဇုန်,Byee-Thara
+ZONG,စျွမ်း,Nan OnePay
+ZONT,ဇွန့်,Byee-Thara
+ZOO,ဇူး,Byee-Thara
+ZOON,ဇွန်း,
+ZOTHEE,ဇိုသီး,
+ZU,ဇူ,
+ZUBAIR,ဇူဘဲရား,
+ZUE,ဇူး,
+ZULY,ဇူလိုင်,
+ZUN,ဇွန်,
+ZUNE,ဇွန်,
+ZUNG,ဇွန်,
+ZUNN,ဇွန်း,Byee-Thara
+ZUU,ဇူး,
+ZWA,ဇွာ,
+ZWAL,ဇွဲ,
+ZWAM,ဇွမ််,
+ZWAN,ဇွမ်,Byee-Thara
+ZWE,ဇွဲ,
+ZWEL,ဇွဲ,
+ZY,ဇိုင်,Byee-Thara
+ZYA,ဇ,Byee-Thara
+ZYAN,ဈာန်,
+ZYAW,ဇော်,Byee-Thara
+ZYAWE,ဇွဲ,Byee-Thara
+ZYAWT,ဇော့,Byee-Thara
+ZYAY,ဇေ,Byee-Thara
+ZYE,ဇေး,Byee-Thara
+ZYO,ဇိုး,Byee-Thara
+ZYU,ဇူ,Byee-Thara
